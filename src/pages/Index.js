@@ -15,12 +15,15 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Hello World!</Link></h2>
           <p>
-            A Responsive and fast personal website site Written with modern JavaScript using techologies/tools such as React, Node and Git.
+            Delivering Quality Web Services & Digital Marketing To Everyone.
           </p>
         </div>
       </header>
+      <p> As a Software Developer I enjoy designing highly interactive user interfaces that enthuse customers and creating scalable, reliable solutions - but keeping consistency in design, good planning of UI and thinking how it affects the UX, Search Engine Optimization and maintaining the software after initial release.
+      </p>
+
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
@@ -28,15 +31,13 @@ const Index = () => (
         view <Link to="/stats">some statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/">here</a>.</p>
-      <p> Scroll Down to checkout my favorite projects .</p>
     </article>
 
     <article className="post" id="projects">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I made during the last years</p>
+          <p>A selection of my favorite projects</p>
         </div>
       </header>
       {data.map((project) => (

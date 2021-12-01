@@ -44,7 +44,7 @@ const data = [
   {
     key: 'Repositories',
     label: 'GitHub Repositories',
-    value: '35',
+    value: '36',
   },
 ];
 

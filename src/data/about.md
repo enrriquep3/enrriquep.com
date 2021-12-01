@@ -1,7 +1,7 @@
 
 # Intro
 
-I'm a hard-working and passionate front-end web developer, I like to write clean, reusable, and maintainable code to create beautiful user interface. 
+I'm a hard-working and passionate front-end web developer, I like to write clean, reusable, and maintainable code to create beautiful user interfaces. 
 I'm a highly motivated Web Developer, passionate about learning new technologies to build and maintain appealing user-friendly websites and applications. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
