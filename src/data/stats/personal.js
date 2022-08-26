@@ -44,7 +44,8 @@ const data = [
   {
     key: 'Repositories',
     label: 'GitHub Repositories',
-    value: '36',
+    value: '53',
+    link: 'https://github.com/enrriquep3',
   },
 ];
 
